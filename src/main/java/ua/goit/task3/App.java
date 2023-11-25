@@ -6,6 +6,6 @@ public class App {
 
     public static void main(String[] args) {
 
-        PrintTask.print(5, URL);
+        TaskPrinter.print(5, URL);
     }
 }

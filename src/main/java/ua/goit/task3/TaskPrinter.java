@@ -4,7 +4,7 @@ import org.jsoup.Jsoup;
 
 import java.io.IOException;
 
-public class PrintTask {
+public class TaskPrinter {
 
     private static final String URL = "https://jsonplaceholder.typicode.com/users";
     private static boolean completed;
